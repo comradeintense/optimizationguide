@@ -1,11 +1,8 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
-
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
+title:          Open Roberta Lab Blog
+description:    "Where developer tell stories and more"
+baseurl:        "/"
+url:            "https://openroberta.github.io"
 
 # Author
 author:
