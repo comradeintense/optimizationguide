@@ -1,7 +1,7 @@
 # Site settings
 title:          Open Roberta Lab Blog
 description:    "Where developer tell stories and more"
-baseurl:        "/tale"
+baseurl:        "/"
 url:            "https://openroberta.github.io"
 
 # Author
